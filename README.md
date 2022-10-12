@@ -2,9 +2,9 @@
 
 > Generate color palette from image to use in TaiwindCSS
 
-> Website: <https://colorgen.dev/>
+> Website: <https://>
 
-![Palette generator banner](https://res.cloudinary.com/mayashavin/image/upload/w_700,q_auto,f_auto/v1599167283/colors_generator/palette-generator)
+![Palette generator banner](src/logo.webp)
 
 ## Features
 
