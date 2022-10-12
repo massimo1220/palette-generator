@@ -17,7 +17,7 @@ export default {
   ** See https://nuxtjs.org/api/configuration-head
   */
   head: {
-    title: 'Palette Generator from images to use in TailwindCSS ',
+    title: 'Palette Generator from images',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -26,7 +26,7 @@ export default {
         hid: 'twitter:image',
         name: 'twitter:image',
         content:
-          'https://res.cloudinary.com/mayashavin/image/upload/q_auto,f_auto/v1599115565/colors_generator/palette-generator'
+          ''
       },
       // Twitter Card
       {
@@ -64,11 +64,11 @@ export default {
         hid: 'og:image',
         property: 'og:image',
         content:
-          'https://res.cloudinary.com/mayashavin/image/upload/q_auto,f_auto/v1599115565/colors_generator/palette-generator'
+          ''
       }
     ],
     link: [
-      { rel: 'icon', type: 'image/png', href: 'https://res.cloudinary.com/mayashavin/image/upload/v1599163766/colors_generator/palette_generator.png' }
+      { rel: 'icon', type: 'image/png', href: '' }
     ]
   },
   /*
