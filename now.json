@@ -1,0 +1,12 @@
+
+{
+  "version": 2,
+  "functions": {
+    "api/generate.js": {
+      "memory": 3008
+    }
+  },
+  "routes": [
+    { "handle": "filesystem" }
+  ]
+}
